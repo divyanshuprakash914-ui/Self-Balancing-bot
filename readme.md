@@ -49,3 +49,9 @@ All of this runs in a fast loop, so the robot keeps correcting itself in real ti
 
 This project is a good starting point for understanding control systems and robotics.  
 It may take some time to get stable results, but the process is useful and rewarding.
+
+---
+
+## Photos
+
+![alt text](image.png)
